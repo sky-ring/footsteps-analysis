@@ -1,6 +1,15 @@
 ## Footstep Categories
 Here, we have categorized all approved footsteps to date, providing a clearer insight into the Footsteps program:
 
+- Development Tools
+- Documentation
+- Smart Contracts / DApps
+- Education / Training
+- Improvement & Maintenance
+- Community Engagement
+- Integration
+- Enhancement Proposals
+
 ## Development Tools
 - TON Dev environment tool ([#15](https://github.com/ton-society/ton-footsteps/issues/15))
 - VS Code extension for FunC support ([#18](https://github.com/ton-society/ton-footsteps/issues/18))
